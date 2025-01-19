@@ -1,7 +1,9 @@
-package cl.hcs.clean.entities
+package cl.hcs.clean.a_enterprise.entities
 
-data class Usuario(
+class Usuario (
     val email:String,
     val contrasena:String,
     val telefono:String
-)
+) {
+
+}

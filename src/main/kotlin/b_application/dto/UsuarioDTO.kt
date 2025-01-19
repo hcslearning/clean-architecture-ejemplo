@@ -1,4 +1,4 @@
-package cl.hcs.clean.usecases
+package cl.hcs.clean.b_application.dto
 
 data class UsuarioDTO(
     val email:String,
